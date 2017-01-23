@@ -1,0 +1,12 @@
+Este proyecto es creado para la Global Game Jam 2016 sede UNL - FICH
+por el grupo con integrantes:
+	Maria Antonella Martini
+	Jenaro Palombarini
+	Magnin Stefania
+
+Herramientas utilizadas:
+	-Zinjai
+	-Gimp
+	-Piskelapp.com
+	
+Creditos:
